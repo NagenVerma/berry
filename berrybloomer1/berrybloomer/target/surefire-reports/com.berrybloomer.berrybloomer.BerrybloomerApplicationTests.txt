@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.berrybloomer.berrybloomer.BerrybloomerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 10.803 s <<< FAILURE! - in com.berrybloomer.berrybloomer.BerrybloomerApplicationTests
+contextLoads  Time elapsed: 0.041 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [org.springdoc.core.configuration.SpringDocConfiguration$OpenApiResourceAdvice] from ClassLoader [jdk.internal.loader.ClassLoaders$AppClassLoader@70dea4e]
+Caused by: java.lang.NoClassDefFoundError: org/springframework/http/HttpStatusCode
+Caused by: java.lang.ClassNotFoundException: org.springframework.http.HttpStatusCode
+

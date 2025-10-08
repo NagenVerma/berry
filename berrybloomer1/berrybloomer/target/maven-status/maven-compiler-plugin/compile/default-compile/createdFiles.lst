@@ -1,0 +1,15 @@
+com\berrybloomer\berrybloomer\repo\LoginRepo.class
+com\berrybloomer\berrybloomer\entity\User.class
+com\berrybloomer\berrybloomer\repo\HolidayRepo.class
+com\berrybloomer\berrybloomer\repo\QueryRepo.class
+com\berrybloomer\berrybloomer\entity\ConsultationQuery$ConsultationQueryBuilder.class
+com\berrybloomer\berrybloomer\controller\AttendanceRepo.class
+com\berrybloomer\berrybloomer\controller\QueryController.class
+com\berrybloomer\berrybloomer\entity\Holiday.class
+com\berrybloomer\berrybloomer\entity\LeaveRequest.class
+com\berrybloomer\berrybloomer\repo\LeaveRepo.class
+com\berrybloomer\berrybloomer\entity\Login.class
+com\berrybloomer\berrybloomer\BerrybloomerApplication.class
+com\berrybloomer\berrybloomer\entity\Attendance.class
+com\berrybloomer\berrybloomer\entity\ConsultationQuery.class
+com\berrybloomer\berrybloomer\repo\userRepo.class
